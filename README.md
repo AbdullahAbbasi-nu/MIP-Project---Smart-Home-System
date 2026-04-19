@@ -1,5 +1,5 @@
-🚀 ATmega32 MIP Project: Smart Home Automation System
-👥 The Team
+**🚀 ATmega32 MIP Project: Smart Home Automation System
+👥 The Team**
 Abdullah Abbasi - Project Lead / Firmware
 
 Ghulam Abbas - Hardware Design / Simulation
