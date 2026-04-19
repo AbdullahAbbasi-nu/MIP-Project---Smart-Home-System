@@ -1,4 +1,4 @@
-#**🚀 ATmega32 MIP Project: Smart Home Automation System**#
+**#🚀 ATmega32 MIP Project: Smart Home Automation System**
 
 **👥 The Team**
 
