@@ -1,12 +1,16 @@
+----------------------------------------------------------
 **🚀 ATmega32 MIP Project: Smart Home Automation System**
+----------------------------------------------------------
 
 **👥 The Team**
+----------------
 
 Abdullah Abbasi - Project Lead / Firmware
 
 Ghulam Abbas - Hardware Design / Simulation
 
 **📂 Repository Structure**
+----------------------------
 
 src/ - Assembly source code (.asm).
 
@@ -17,6 +21,7 @@ bin/ - Compiled .hex files for the ATmega32 and Flame sensor.
 hardware/ - Real-world circuit photos and schematics.
 
 **🛠️ Simulation Instructions**
+-------------------------------
 
 To run this project, you will need Proteus Design Suite (Version 8.0 or higher recommended).
 
@@ -59,10 +64,12 @@ Press the Play (▷) button at the bottom-left corner of the Proteus window.
 Observe the [LCD/LEDs/Motors] to verify the logic.
 
 **📸 Hardware Implementation**
+-------------------------------
 
 Check the hardware/ folder for images of our physical circuit. We used a [USBasp/AVR ISP MkII] programmer to flash the main.hex onto the physical ATmega32 chip.
 
 **⚠️ Troubleshooting**
+-----------------------
 
 Simulation Running Slow? Check if your computer is under heavy load; Proteus is CPU-intensive.
 
