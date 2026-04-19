@@ -1,5 +1,5 @@
 ; =============================================================================
-; Project: Smart Environmental Control System
+; Project: Smart Home Automation System
 ; =============================================================================
 
 .include "m32def.inc"
