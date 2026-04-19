@@ -43,7 +43,7 @@ Look for the Program File field.
 
 Click the Folder Icon 📁 on the right of that field.
 
-Navigate to the bin/ folder in this repository and select main.hex.
+Navigate to the bin/ folder in this repository and select MIP Project.hex.
 
 Important: Ensure the "Clock Frequency" in the properties matches your code (usually 8MHz or 16MHz).
 
